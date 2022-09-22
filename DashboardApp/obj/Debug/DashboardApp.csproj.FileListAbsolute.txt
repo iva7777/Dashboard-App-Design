@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\bin\Debug\DashboardApp.exe.config
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\bin\Debug\DashboardApp.exe
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\bin\Debug\DashboardApp.pdb
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.Form1.resources
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.Properties.Resources.resources
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.exe
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.pdb
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\bin\Debug\CircularProgressBar.dll
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\bin\Debug\WinFormAnimation.dll
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\bin\Debug\CircularProgressBar.xml
+C:\Users\acer\Desktop\Мои неща\Програмиране\DashboardApp\DashboardApp\obj\Debug\DashboardApp.csproj.CopyComplete
